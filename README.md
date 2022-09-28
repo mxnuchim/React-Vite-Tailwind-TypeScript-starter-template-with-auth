@@ -12,11 +12,11 @@ This is a good starting point for your next project that needs firebase auth
 
 - Clone the project with 
 ```
-git clone https://github.com/IgorBayerl/react-vite-tailwind-firebase-auth-template.git
+git clone https://github.com/mxnuchim/React-Vite-Tailwind-TypeScript-starter-template-with-auth.git
 ```
 - Navigate to the directory
 ```
-cd react-vite-tailwind-firebase-auth-template
+cd React-Vite-Tailwind-TypeScript-starter-template-with-auth
 ```
 - Install the dependencies with
 ```
@@ -27,3 +27,4 @@ yarn
 ```
 yarn dev
 ```
+- Happy hacking
